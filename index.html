@@ -3,47 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Видео и музыка на повторе</title>
+    <title>Black Screen with Music</title>
     <style>
-        body { 
-            background: black; 
-            margin: 0; 
-            display: flex; 
-            justify-content: center; 
-            align-items: center; 
-            height: 100vh; 
-            overflow: hidden;
-        }
-        video {
-            width: 100vw;
+        body {
+            background-color: black;
+            margin: 0;
             height: 100vh;
-            object-fit: cover;
+            display: flex;
+            justify-content: center;
+            align-items: center;
         }
     </style>
 </head>
 <body>
-    <video id="myVideo" loop muted>
-        <source src="video.mp4" type="video/mp4">
-        Ваш браузер не поддерживает видео.
-    </video>
-
-    <audio id="myAudio" loop>
+    <audio id="bg-music" autoplay loop>
         <source src="music.mp3" type="audio/mpeg">
         Ваш браузер не поддерживает аудио.
     </audio>
 
     <script>
-        function playMedia() {
-            let audio = document.getElementById("myAudio");
-            let video = document.getElementById("myVideo");
-
-            audio.volume = 1.0; // Максимальная громкость
-            audio.play().catch(error => console.log("Ошибка запуска аудио:", error));
-            video.play().catch(error => console.log("Ошибка запуска видео:", error));
-        }
-
-        document.addEventListener("click", playMedia, { once: true });
-        document.addEventListener("touchstart", playMedia, { once: true });
+        document.addEventListener("click", () => {
+            document.getElementById("bg-music").play();
+        });
     </script>
 </body>
 </html>
